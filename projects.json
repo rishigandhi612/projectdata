@@ -10,6 +10,11 @@
         "link":"https://todo.rishigandhi.xyz/#/"
     },
     {
+        "title":"Student Data",
+        "decsription":"Create and Delete Students Data and also view them in form of multiple cards",
+        "link":"https://gandhirishi123.github.io/challan/"
+    },
+    {
        "title":"Search Github User",
        "decsription":"Enter Github username and see the magic.",
        "link":"https://gandhirishi123.github.io/searchgithubuser/"
