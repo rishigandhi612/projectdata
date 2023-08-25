@@ -36,12 +36,12 @@
     },
     {
        "title":"School Marklist display",
-       "decsription":"My First project with bootstrap where I used bs documents to create my earlier students marks diplay project look more attractive.",
+       "decsription":"Used Bootstrap to create my earlier students marks diplay project look more attractive.",
        "link":"https://gandhirishi123.github.io/Bootstrapone/"
     },
     {
        "title":"JS Profile",
-       "decsription":"Made a basic layout and fetched data from array to fill the layout...Tried making a resume builder like similar project",
+       "decsription":"Created a basic resume builder layout with dynamic data fetched from an array.",
        "link":"https://gandhirishi123.github.io/JSPROFILE/"
     }
  ]
