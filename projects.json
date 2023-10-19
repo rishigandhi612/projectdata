@@ -2,7 +2,7 @@
     {
         "title":"Create A Logistics document",
         "decsription":"Created a solution for local business which helped them create their delivery note",
-        "link":"https://gandhirishi123.github.io/challan/"
+        "link":"https://rishigandhi612.github.io/challan/"
     },
     {
         "title":"Todo App",
@@ -12,36 +12,36 @@
     {
         "title":"Student Data",
         "decsription":"Create and Delete Students Data and also view them in form of multiple cards",
-        "link":"https://gandhirishi123.github.io/VUE101studentdata/"
+        "link":"https://rishigandhi612.github.io/VUE101studentdata/"
     },
     {
        "title":"Search Github User",
        "decsription":"Enter Github username and see how the information is rendered.",
-       "link":"https://gandhirishi123.github.io/searchgithubuser/"
+       "link":"https://rishigandhi612.github.io/searchgithubuser/"
     },
     {
        "title":"Github Users Profile",
        "decsription":"Fetching Github API's,navbar and implementing loaders and using bootstrap.",
-       "link":"https://gandhirishi123.github.io/bootstrapgithubapi/"
+       "link":"https://rishigandhi612.github.io/bootstrapgithubapi/"
     },
     {
        "title":"School Marklist display",
        "decsription":"Enter student's marks and display in a table form.",
-       "link":"https://gandhirishi123.github.io/Takemarksanddisplay/"
+       "link":"https://rishigandhi612.github.io/Takemarksanddisplay/"
     },
     {
        "title":"Basic Calculator",
        "decsription":"You can perform basic calculations like ADD SUBTRACT DIVIDE MULTIPLY",
-       "link":"https://gandhirishi123.github.io/BasicCalculator/"
+       "link":"https://rishigandhi612.github.io/BasicCalculator/"
     },
     {
        "title":"School Marklist display",
        "decsription":"Used Bootstrap to create my earlier students marks diplay project look more attractive.",
-       "link":"https://gandhirishi123.github.io/Bootstrapone/"
+       "link":"https://rishigandhi612.github.io/Bootstrapone/"
     },
     {
        "title":"JS Profile",
        "decsription":"Created a basic resume builder layout with dynamic data fetched from an array.",
-       "link":"https://gandhirishi123.github.io/JSPROFILE/"
+       "link":"https://rishigandhi612.github.io/JSPROFILE/"
     }
  ]
